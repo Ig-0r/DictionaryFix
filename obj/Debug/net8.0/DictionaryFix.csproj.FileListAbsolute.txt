@@ -1,0 +1,14 @@
+C:\Users\ntzzy\source\repos\DictionaryFix\DictionaryFix\bin\Debug\net8.0\DictionaryFix.exe
+C:\Users\ntzzy\source\repos\DictionaryFix\DictionaryFix\bin\Debug\net8.0\DictionaryFix.deps.json
+C:\Users\ntzzy\source\repos\DictionaryFix\DictionaryFix\bin\Debug\net8.0\DictionaryFix.runtimeconfig.json
+C:\Users\ntzzy\source\repos\DictionaryFix\DictionaryFix\bin\Debug\net8.0\DictionaryFix.dll
+C:\Users\ntzzy\source\repos\DictionaryFix\DictionaryFix\bin\Debug\net8.0\DictionaryFix.pdb
+C:\Users\ntzzy\source\repos\DictionaryFix\DictionaryFix\obj\Debug\net8.0\DictionaryFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntzzy\source\repos\DictionaryFix\DictionaryFix\obj\Debug\net8.0\DictionaryFix.AssemblyInfoInputs.cache
+C:\Users\ntzzy\source\repos\DictionaryFix\DictionaryFix\obj\Debug\net8.0\DictionaryFix.AssemblyInfo.cs
+C:\Users\ntzzy\source\repos\DictionaryFix\DictionaryFix\obj\Debug\net8.0\DictionaryFix.csproj.CoreCompileInputs.cache
+C:\Users\ntzzy\source\repos\DictionaryFix\DictionaryFix\obj\Debug\net8.0\DictionaryFix.dll
+C:\Users\ntzzy\source\repos\DictionaryFix\DictionaryFix\obj\Debug\net8.0\refint\DictionaryFix.dll
+C:\Users\ntzzy\source\repos\DictionaryFix\DictionaryFix\obj\Debug\net8.0\DictionaryFix.pdb
+C:\Users\ntzzy\source\repos\DictionaryFix\DictionaryFix\obj\Debug\net8.0\DictionaryFix.genruntimeconfig.cache
+C:\Users\ntzzy\source\repos\DictionaryFix\DictionaryFix\obj\Debug\net8.0\ref\DictionaryFix.dll
